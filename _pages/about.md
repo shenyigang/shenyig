@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my world"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 Hi! I am a PhD candidate at graduate school of frontier biosciences, Osaka University.
 
 Research Interest
