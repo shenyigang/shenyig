@@ -17,7 +17,7 @@ Research field: Oil analyses, metal particles detecting, microfluidics
 09/2010--07/2014   BSc Marine Engineering, Dalian Maritime University, China 
 
 Research Experience
-------
+======
 2019-2020	Project: Development of real-time detection and analysis system for metal particles in lubricating oil using glass microfluidic devices 
 (Sasakawa Scientific Research Grant) Responsible for the whole grogram                           
 
