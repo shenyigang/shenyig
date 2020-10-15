@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-=======
-
 1. **Y. Shen**, Yalikun Y, Aishan Y, N. Tanaka, A. Sato, Y. Tanaka, Area cooling enables thermal positioning and manipulation of single cells, Lab on chip. 20 (2020).
 <a href="https://pubs.rsc.org/en/content/articlelanding/2020/lc/d0lc00523a#!divAbstract" target="_blank">[Back cover Paper]</a>
 1. **Y. Shen**, N. Tanaka, H. Yamazoe, S. Furutani, H. Nagai, T. Kawai, Y. Tanaka, Flow analysis on microcasting with degassed polydimethylsiloxane micro-channels for cell patterning with cross-linked albumin, PLoS One. 15 (2020) e0232518.
