@@ -9,9 +9,9 @@ Publications
 =======
 
 9. **Y. Shen**, Yalikun Y, Aishan Y, N. Tanaka, A. Sato, Y. Tanaka, Area cooling enables thermal positioning and manipulation of single cells†, Lab on chip. 20 (2020).
-<a href="https://pubs.rsc.org/en/content/articlelanding/2020/lc/d0lc00523a#!divAbstract" target="_blank">[Paper]</a>
+<a href="https://pubs.rsc.org/en/content/articlelanding/2020/lc/d0lc00523a#!divAbstract" target="_blank">[Paper]</a>.
 8. **Y. Shen**, N. Tanaka, H. Yamazoe, S. Furutani, H. Nagai, T. Kawai, Y. Tanaka, Flow analysis on microcasting with degassed polydimethylsiloxane micro-channels for cell patterning with cross-linked albumin, PLoS One. 15 (2020) e0232518.
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232518" target="_blank">[Paper]</a>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232518" target="_blank">[Paper]</a>.
 7. Aishan Y, Yalikun Y, Funano SI, **Shen Y**, Tanaka Y. Accurate rotation of ultra-Thin glass chamber for single-cell multidirectional observation. Appl Phys Express.13: 26502 2020.
 <a href="https://iopscience.iop.org/article/10.7567/1882-0786/ab626d" target="_blank">[Paper]</a>
 6. Aishan Y, Yalikun Y, Amaya S, **Shen Y**, Tanaka Y. Thin glass micro-dome structure based microlens fabricated by accurate thermal expansion of microcavities. Appl Phys Lett. 115 2020.
