@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Welcome to my world"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About Me
 ======
 Hi! I am a PhD candidate at graduate school of frontier biosciences, Osaka University.
