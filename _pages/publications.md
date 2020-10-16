@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/2.png'>"
 ---
 
 
