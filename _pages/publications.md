@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<img src='/images/2.png'><img src='/images/c4.gif'>
+<img src='/images/2.png'>
 ---
 
 
