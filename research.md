@@ -4,6 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-title: "Thermal manipulation"
+* Thermal manipulation
 <img src='/images/c4.gif'>
 ---
