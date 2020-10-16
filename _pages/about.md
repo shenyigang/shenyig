@@ -24,17 +24,12 @@ Education Background
 Research Experience
 ======
 * 2019-2020	Project: Development of real-time detection and analysis system for metal particles in lubricating oil using glass microfluidic devices 
-(Sasakawa Scientific Research Grant) 
-  * Responsible for the whole grogram                           
+(Sasakawa Scientific Research Grant)                           
 * 2018-2019	Project: Biosensing and power generation robots using the anhydrobiotic chironomid for space exploring
 (Japan Society for the Promotion Science)                                                     
-  * Design and build the capacitance sensor system for detecting the movement of chironomid  
 * 2018-2019	Project: Cell Patterning on the micro-cast structure of cross-linked albumin
-(Japanese company)                                                                        
-  * Analysis the flow rate feature in the degassed PDMS end channel and carry on the process of cell culture  
+(Japanese company)                                                                         
 * 2015-2016 Project: Single Cell Sorting and Genome Sequencing of Lung Cancer Based on Microfluidic Chip Technology
 (National High Technology Research and Development Program 863)	
-  * Design the structure of the chip and master the COMSOL simulation software.
 * 2014-2017	Project: Research on Key Issues of the Marine Power Plant Oil Detecting on a Microfluidic Lab-on-Chip Device (National Science Foundation of China)	
-  * Study on the separation and counting of microfluidic abrasive grains with multi-physics coupling.
 
