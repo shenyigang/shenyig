@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/1.png'>"
+---
+
 
 1. **Y. Shen**, Yalikun Y, Aishan Y, N. Tanaka, A. Sato, Y. Tanaka, Area cooling enables thermal positioning and manipulation of single cells, Lab on chip. 20 (2020).
 <a href="https://pubs.rsc.org/en/content/articlelanding/2020/lc/d0lc00523a#!divAbstract" target="_blank">[Back cover Paper]</a>
