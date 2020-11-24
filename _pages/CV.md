@@ -1,2 +1,8 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
 
-<object data="{{ post.file_document_path }}" width="1000" height="1000" type='application/pdf'/>
+<object data='/files/CV.pdf'>
