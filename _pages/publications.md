@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-1. **Y. Shen**, Yalikun Y, Aishan Y, N. Tanaka, A. Sato, Y. Tanaka, Area cooling enables thermal positioning and manipulation of single cells, Lab on chip. 20 (2020).
+1. **Y. Shen**, Yalikun Y, Aishan Y, N. Tanaka, A. Sato, Y. Tanaka, Area cooling enables thermal positioning and manipulation of single cells, Lab on chip. 20 2020.
 <a href="https://pubs.rsc.org/en/content/articlelanding/2020/lc/d0lc00523a#!divAbstract" target="_blank">[Back cover Paper]</a>
 1. D. Anggraini, N. Ota, **Y. Shen**, Y. Hosokawa, M. Li, Y. Yalikun, Chapter: Single-cell cultivation utilizing microfluidic systems, Book: Handbook of Single Cell Technologies. Springer, 2020.
 <a href="https://link.springer.com/referenceworkentry/10.1007/978-981-10-4857-9_20-1" target="_blank">[Book]</a>
