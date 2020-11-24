@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-<object data='files/CV.pdf'>
+<object data ='files/CV.pdf'>
