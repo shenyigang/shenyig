@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-<img src='/files/CV.pdf'>
+< object data =“ CV.pdf” width =“ 1000” height =“ 1000” type ='application / pdf'/>
