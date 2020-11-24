@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /CV.pdf/
 author_profile: true
 ---
-<embed src="/files/CV.pdf" width="850" height="600">
+
