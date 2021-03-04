@@ -7,7 +7,8 @@ author_profile: true
 <img src='/images/2.png'>
 ---
 
-
+1. Y. Yuan, Y. Yalikun, S. Amaya, Y. Aishan, **Y. Shen**, Y. Tanaka, Fabrication of ultra-thin glass sheet by weight-controlled load-assisted precise thermal stretching, Sensors Actuators A Phys. 321 2021.
+<a href="https://www.sciencedirect.com/science/article/pii/S0924424721000650?via%3Dihub" target="_blank">[Paper]</a>
 1. **Y. Shen**, Yalikun Y, Aishan Y, N. Tanaka, A. Sato, Y. Tanaka, Area cooling enables thermal positioning and manipulation of single cells, Lab on chip. 20 2020.
 <a href="https://pubs.rsc.org/en/content/articlelanding/2020/lc/d0lc00523a#!divAbstract" target="_blank">[Back cover Paper]</a>
 1. D. Anggraini, N. Ota, **Y. Shen**, Y. Hosokawa, M. Li, Y. Yalikun, Chapter: Single-cell cultivation utilizing microfluidic systems, Book: Handbook of Single Cell Technologies. Springer, 2020.
