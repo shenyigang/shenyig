@@ -12,9 +12,11 @@ Hi! I am a PhD candidate at graduate school of frontier biosciences, Osaka Unive
 
 Research Interest
 ======
-Better understand the basics and fundamentals of driving and manipulating particles in microfluidic devices.
-Develop new, low-cost microfabrication techniques to produce reliable microfluidic devices.
-Explore implementing microfluidics technology in new biomedical applications that can benefit from the advantages it offers.
+* Better understand the basics and fundamentals of driving and manipulating particles in microfluidic devices.
+
+* Develop new, low-cost microfabrication techniques to produce reliable microfluidic devices.
+
+* Explore implementing microfluidics technology in new biomedical applications that can benefit from the advantages it offers.
 
 Education Background
 ======
