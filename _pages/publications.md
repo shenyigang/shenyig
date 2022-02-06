@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 <img src='/images/2.png'>
----
 
 1. **Shen Y**, Yuan Y, Tang T, et al. Continuous 3D Particles Manipulation Based on Cooling Thermal Convection. Sensors and Actuators B: Chemical, 2022: 131511.
 <a href="https://www.sciencedirect.com/science/article/pii/S0925400522001538">[Paper]</a>
