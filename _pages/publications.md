@@ -7,6 +7,16 @@ author_profile: true
 <img src='/images/2.png'>
 ---
 
+1.**Shen Y**, Yuan Y, Tang T, et al. Continuous 3D Particles Manipulation Based on Cooling Thermal Convection. Sensors and Actuators B: Chemical, 2022: 131511.
+<a href="https://www.sciencedirect.com/science/article/pii/S0925400522001538">[Paper]</a>
+1. Tang T, Liu X, Yuan Y, Kiya R, **Shen Y**, et al. Dual-frequency impedance assays for intracellular components in microalgal cells. Lab on a Chip, 2022.
+<a href="https://pubs.rsc.org/en/content/articlelanding/2022/LC/D1LC00721A">[Paper]</a>
+1. Tang T, Liu X, Kiya R, **Shen Y**, et al. Microscopic impedance cytometry for quantifying single cell shape. Biosensors and Bioelectronics, 2021, 193: 113521.
+<a href="https://www.sciencedirect.com/science/article/pii/S0956566321005583" target="_blank">[Paper]</a>
+1. Zhang T, **Shen Y**, Kiya R, et al. Focusing of Particles in a Microchannel with Laser Engraved Groove Arrays. Biosensors, 2021, 11(8): 263.
+<a href="https://www.mdpi.com/2079-6374/11/8/263" target="_blank">[Paper]</a>
+1. Aishan Y, Yalikun Y, **Shen Y**, et al. A chemical micropump actuated by self-oscillating polymer gel. Sensors and Actuators B: Chemical, 2021, 337: 129769.
+<a href="https://www.sciencedirect.com/science/article/pii/S0925400521003385" target="_blank">[Paper]</a>
 1. Y. Yuan, Y. Yalikun, S. Amaya, Y. Aishan, **Y. Shen**, Y. Tanaka, Fabrication of ultra-thin glass sheet by weight-controlled load-assisted precise thermal stretching, Sensors Actuators A Phys. 321 2021.
 <a href="https://www.sciencedirect.com/science/article/pii/S0924424721000650?via%3Dihub" target="_blank">[Paper]</a>
 1. **Y. Shen**, Yalikun Y, Aishan Y, N. Tanaka, A. Sato, Y. Tanaka, Area cooling enables thermal positioning and manipulation of single cells, Lab on chip. 20 2020.
